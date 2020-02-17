@@ -1,0 +1,61 @@
+Line 29: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control Grid was not a loaded control class.
+Line 142: Class b8Controls4.b8Line of control b8Line5 was not a loaded control class.
+Line 227: Class b8Controls4.b8Line of control b8Line2 was not a loaded control class.
+Line 238: Class MSDataListLib.DataCombo of control dcRoomType was not a loaded control class.
+Line 253: Class MSDataListLib.DataCombo of control dcRoomStatus was not a loaded control class.
+Line 266: Class b8Controls4.b8GradLine of control b8GradLine2 was not a loaded control class.
+Line 288: Class MSDataListLib.DataCombo of control dcRateType was not a loaded control class.
+Line 35: The property name _ExtentX in Grid is invalid.
+Line 36: The property name _ExtentY in Grid is invalid.
+Line 37: The property name _Version in Grid is invalid.
+Line 38: The property name Rows in Grid is invalid.
+Line 39: The property name FixedRows in Grid is invalid.
+Line 40: The property name FixedCols in Grid is invalid.
+Line 41: The property name RowHeightMin in Grid is invalid.
+Line 42: The property name ForeColorFixed in Grid is invalid.
+Line 43: The property name BackColorSel in Grid is invalid.
+Line 44: The property name ForeColorSel in Grid is invalid.
+Line 45: The property name BackColorBkg in Grid is invalid.
+Line 46: The property name GridColor in Grid is invalid.
+Line 47: The property name GridColorFixed in Grid is invalid.
+Line 48: The property name GridColorUnpopulated in Grid is invalid.
+Line 49: The property name AllowBigSelection in Grid is invalid.
+Line 50: The property name FocusRect in Grid is invalid.
+Line 51: The property name SelectionMode in Grid is invalid.
+Line 52: The property name AllowUserResizing in Grid is invalid.
+Line 62: The property name _NumberOfBands in Grid is invalid.
+Line 63: The property name _Band(0).Cols in Grid is invalid.
+Line 64: The property name _Band(0).GridLinesBand in Grid is invalid.
+Line 65: The property name _Band(0).TextStyleBand in Grid is invalid.
+Line 66: The property name _Band(0).TextStyleHeader in Grid is invalid.
+Line 148: The property name _ExtentX in b8Line5 is invalid.
+Line 149: The property name _ExtentY in b8Line5 is invalid.
+Line 150: The property name BorderColor1 in b8Line5 is invalid.
+Line 151: The property name BorderColor2 in b8Line5 is invalid.
+Line 233: The property name _ExtentX in b8Line2 is invalid.
+Line 234: The property name _ExtentY in b8Line2 is invalid.
+Line 235: The property name BorderColor1 in b8Line2 is invalid.
+Line 236: The property name BorderColor2 in b8Line2 is invalid.
+Line 239: The property name Bindings in dcRoomType is invalid.
+Line 245: The property name _ExtentX in dcRoomType is invalid.
+Line 246: The property name _ExtentY in dcRoomType is invalid.
+Line 247: The property name _Version in dcRoomType is invalid.
+Line 248: The property name ListField in dcRoomType is invalid.
+Line 249: The property name BoundColumn in dcRoomType is invalid.
+Line 250: The property name Text in dcRoomType is invalid.
+Line 251: The property name Object.DataMember in dcRoomType is invalid.
+Line 254: The property name Bindings in dcRoomStatus is invalid.
+Line 261: The property name _ExtentX in dcRoomStatus is invalid.
+Line 262: The property name _ExtentY in dcRoomStatus is invalid.
+Line 263: The property name _Version in dcRoomStatus is invalid.
+Line 264: The property name Text in dcRoomStatus is invalid.
+Line 272: The property name _ExtentX in b8GradLine2 is invalid.
+Line 273: The property name _ExtentY in b8GradLine2 is invalid.
+Line 274: The property name Color1 in b8GradLine2 is invalid.
+Line 275: The property name Color2 in b8GradLine2 is invalid.
+Line 276: The property name Caption in b8GradLine2 is invalid.
+Line 294: The property name _ExtentX in dcRateType is invalid.
+Line 295: The property name _ExtentY in dcRateType is invalid.
+Line 296: The property name _Version in dcRateType is invalid.
+Line 297: The property name Style in dcRateType is invalid.
+Line 298: The property name Text in dcRateType is invalid.

@@ -1,0 +1,15 @@
+Line 294: Class b8Controls4.b8Line of control b8Line2 was not a loaded control class.
+Line 305: Class b8Controls4.b8Line of control b8Line5 was not a loaded control class.
+Line 316: Class MSDataListLib.DataCombo of control dcCountry was not a loaded control class.
+Line 328: Class MSComCtl2.DTPicker of control dtpDateIn was not a loaded control class.
+Line 340: Class b8Controls4.b8GradLine of control b8GradLine1 was not a loaded control class.
+Line 362: Class b8Controls4.b8GradLine of control b8GradLine3 was not a loaded control class.
+Line 384: Class b8Controls4.b8GradLine of control b8GradLine4 was not a loaded control class.
+Line 406: Class MSComCtl2.DTPicker of control dtpDateOut was not a loaded control class.
+Line 418: Class MSDataListLib.DataCombo of control dcIDType was not a loaded control class.
+Line 430: Class MSDataListLib.DataCombo of control dcRateType was not a loaded control class.
+Line 442: Class MSDataListLib.DataCombo of control dcBusSource was not a loaded control class.
+Line 454: Class b8Controls4.b8GradLine of control b8GradLine2 was not a loaded control class.
+Line 476: Class MSDataListLib.DataCombo of control dcVehicle was not a loaded control class.
+Line 488: Class MSDataListLib.DataCombo of control dcRoomNumber was not a loaded control class.
+Line 923: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
